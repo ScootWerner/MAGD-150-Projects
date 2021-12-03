@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# MAGD 150 Projects
 
-You can use the [editor on GitHub](https://github.com/ScootWerner/MAGD-150-Projects/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+This is a repository of projects that I have made in my MAGD 150 class.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## House
+This is [House](https://github.com/ScootWerner/MAGD-150-Projects/tree/gh-pages/f21magd150lab01_werner) made of very simplistic shapes.
 
-### Markdown
+## Earth
+Then there is also [Earth](https://github.com/ScootWerner/MAGD-150-Projects/tree/gh-pages/f21magd150lab02_Werners) and this is also made with simplistic shapes.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Bubbles
+[Bubbles](https://github.com/ScootWerner/MAGD-150-Projects/tree/gh-pages/f21magd150lab03_Werners) was made as a screen saver template.
 
-```markdown
-Syntax highlighted code block
+## Pizza
+Cheese [Pizza](https://github.com/ScootWerner/MAGD-150-Projects/tree/gh-pages/f21magd150lab04_Werner) the only pizza allowed and you can also reset your creation.
 
-# Header 1
-## Header 2
-### Header 3
+## TV
+This [TV](https://github.com/ScootWerner/MAGD-150-Projects/tree/gh-pages/f21magd150lab05_Werner) only turns on and it turns on an animation.
 
-- Bulleted
-- List
+## Pac
+You've seen him before but this [Pac-Man](https://github.com/ScootWerner/MAGD-150-Projects/tree/gh-pages/f21magd150lab06_Werner)  continues to grow.
 
-1. Numbered
-2. List
+## Fall
+Nothing beats this special season then a random bundle of [Leaves](https://github.com/ScootWerner/MAGD-150-Projects/tree/gh-pages/f21magd150lab07_Werner) on the ground.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ScootWerner/MAGD-150-Projects/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+##
