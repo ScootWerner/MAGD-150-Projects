@@ -23,4 +23,11 @@ You've seen him before but this [Pac-Man](https://github.com/ScootWerner/MAGD-15
 ## Fall
 Nothing beats this special season then a random bundle of [Leaves](https://github.com/ScootWerner/MAGD-150-Projects/tree/gh-pages/f21magd150lab07_Werner) on the ground.
 
-##
+## Poster
+This is a [Poster](https://github.com/ScootWerner/MAGD-150-Projects/tree/gh-pages/f21magd150_lab08_Werner) idea of a Hunter from Destiny 2 in the woods.
+
+## Camera
+With this one I tried to take take the base [Camera](https://github.com/ScootWerner/MAGD-150-Projects/tree/gh-pages/f21magd150lab09_Werner) make a modified version and filp it for a horror themed intrest.
+
+## 3D
+A universe unknown and only an X for a [Map](https://github.com/ScootWerner/MAGD-150-Projects/tree/gh-pages/f21magd150lab10_Werner) on where to go, have fun.
